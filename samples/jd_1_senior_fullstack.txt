@@ -1,0 +1,56 @@
+SENIOR FULL STACK ENGINEER — JOB DESCRIPTION
+Company: InnovateTech Solutions
+Location: San Francisco, CA (Hybrid — 3 days/week in office)
+Employment Type: Full-Time
+
+─────────────────────────────────────────────────────
+ABOUT THE ROLE
+─────────────────────────────────────────────────────
+We are looking for a Senior Full Stack Engineer to join our Platform team and help build the next generation of our developer productivity suite. You will be responsible for architecting scalable backend services, leading technical initiatives, and mentoring junior engineers.
+
+This is a senior IC role with a path to Staff Engineer based on impact.
+
+─────────────────────────────────────────────────────
+RESPONSIBILITIES
+─────────────────────────────────────────────────────
+- Design and build highly scalable RESTful and GraphQL APIs using Node.js
+- Lead architecture decisions for backend microservices infrastructure
+- Build performant React frontends with a focus on UX and accessibility
+- Own the CI/CD pipeline and improve developer experience
+- Conduct code reviews, write technical specs, and mentor junior engineers
+- Collaborate with product managers and designers on feature development
+- Optimize application performance (database queries, caching strategies, load balancing)
+
+─────────────────────────────────────────────────────
+REQUIREMENTS
+─────────────────────────────────────────────────────
+Must-Have:
+- 5+ years of experience in full-stack web development
+- Strong proficiency in Node.js and TypeScript
+- Deep experience with React (hooks, context, performance optimization)
+- Experience with PostgreSQL or another relational database
+- Experience with containerization (Docker) and cloud platforms (AWS preferred)
+- Strong understanding of REST API design principles
+- Experience leading or mentoring other engineers
+
+Nice to Have:
+- Experience with Kubernetes for container orchestration
+- GraphQL API design and implementation
+- Redis or other caching technologies
+- Terraform or Infrastructure as Code experience
+
+─────────────────────────────────────────────────────
+QUALIFICATIONS
+─────────────────────────────────────────────────────
+- Bachelor's degree in Computer Science, Engineering, or equivalent experience
+- Must be authorized to work in the United States
+- Strong communication skills — we are a highly collaborative team
+
+─────────────────────────────────────────────────────
+COMPENSATION & BENEFITS
+─────────────────────────────────────────────────────
+- Salary: $160,000 – $200,000 depending on experience
+- Equity: 0.1% – 0.25% options
+- Health, dental, vision — 100% covered
+- $3,000 annual learning & development budget
+- Flexible PTO, unlimited sick days

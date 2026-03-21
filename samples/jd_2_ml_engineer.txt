@@ -1,0 +1,58 @@
+MACHINE LEARNING ENGINEER — JOB DESCRIPTION
+Company: Nexus AI Labs
+Location: Remote (US-based candidates only)
+Employment Type: Full-Time
+
+─────────────────────────────────────────────────────
+ABOUT NEXUS AI LABS
+─────────────────────────────────────────────────────
+Nexus AI Labs is building the next generation of enterprise AI infrastructure. Our platform helps Fortune 500 companies deploy, monitor, and scale large language models in production. We are Series B, $45M raised, 60-person team.
+
+─────────────────────────────────────────────────────
+ROLE OVERVIEW
+─────────────────────────────────────────────────────
+We are hiring a Machine Learning Engineer to join our Core AI team. You will design and ship production ML systems, work closely with our research team on LLM fine-tuning, and build the data infrastructure that powers our models.
+
+─────────────────────────────────────────────────────
+RESPONSIBILITIES
+─────────────────────────────────────────────────────
+- Design and deploy NLP/LLM systems for enterprise use cases
+- Build and maintain RAG pipelines (embedding, vector search, retrieval, generation)
+- Fine-tune and evaluate large language models (GPT, LLaMA, Mistral)
+- Build MLOps infrastructure: training pipelines, model monitoring, A/B testing
+- Collaborate with product and research teams to translate requirements into ML solutions
+- Write clean, well-tested Python code for production ML services
+
+─────────────────────────────────────────────────────
+REQUIREMENTS
+─────────────────────────────────────────────────────
+Must-Have:
+- 3+ years of ML Engineering experience in production environments
+- Strong Python skills and experience with PyTorch or TensorFlow
+- Experience with NLP and transformer-based models (BERT, GPT, LLaMA)
+- Experience building RAG systems (LangChain, FAISS, Pinecone, or similar)
+- Familiarity with MLOps tools (MLflow, DVC, SageMaker, or Vertex AI)
+- Experience deploying models to production (REST API, serverless, or batch)
+- Strong understanding of ML fundamentals (loss functions, regularization, evaluation metrics)
+
+Nice to Have:
+- LLM fine-tuning experience (LoRA, QLoRA, RLHF)
+- Vector database experience (Pinecone, Weaviate, Chroma, Qdrant)
+- Experience with distributed training (DeepSpeed, FSDP)
+- Research background or publications in ML/NLP
+- Experience with Kubernetes for ML workloads
+
+─────────────────────────────────────────────────────
+QUALIFICATIONS
+─────────────────────────────────────────────────────
+- MS or PhD in Computer Science, ML, Statistics, or related field preferred
+- Must be authorized to work in the United States
+- Strong written and verbal communication skills
+
+─────────────────────────────────────────────────────
+COMPENSATION
+─────────────────────────────────────────────────────
+- Salary: $170,000 – $220,000 depending on experience
+- Equity participation in a high-growth Series B
+- Remote-first culture with quarterly in-person offsites
+- $5,000/year learning budget + conference attendance support

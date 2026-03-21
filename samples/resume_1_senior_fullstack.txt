@@ -1,0 +1,76 @@
+ALEX JOHNSON
+Senior Full Stack Developer
+Email: alex.johnson@email.com | Phone: (415) 555-0101
+LinkedIn: linkedin.com/in/alexjohnson | GitHub: github.com/alexjohnson
+Location: San Francisco, CA
+
+─────────────────────────────────────────────────────
+PROFESSIONAL SUMMARY
+─────────────────────────────────────────────────────
+Seasoned Full Stack Developer with 7+ years of experience building scalable web applications and RESTful APIs. Deep expertise in JavaScript/TypeScript ecosystems (React, Node.js, Express). Proven track record of leading cross-functional engineering teams and delivering high-impact products in fast-paced startup environments. Passionate about clean architecture, developer experience, and mentoring junior engineers.
+
+─────────────────────────────────────────────────────
+WORK EXPERIENCE
+─────────────────────────────────────────────────────
+
+Senior Software Engineer | TechCorp Inc. | Jan 2021 – Present
+- Architected and led development of a microservices platform serving 2M+ daily active users
+- Reduced API response time by 43% through Redis caching and query optimization
+- Built a real-time collaboration feature using WebSockets, increasing user retention by 28%
+- Mentored team of 5 junior engineers; conducted weekly code reviews and architecture sessions
+- Migrated legacy monolith to containerized microservices on AWS ECS (Docker + Kubernetes)
+- Tech stack: Node.js, TypeScript, React 18, PostgreSQL, Redis, AWS, Docker, Kubernetes
+
+Software Engineer | StartupXYZ | June 2019 – Dec 2020
+- Developed full-stack features for a B2B SaaS platform with 50,000+ users
+- Built a GraphQL API reducing frontend data-fetching complexity by 60%
+- Implemented CI/CD pipelines using GitHub Actions, reducing deployment time from 2 hours to 12 minutes
+- Designed and implemented automated testing suite achieving 87% code coverage
+- Tech stack: React, Node.js, GraphQL, MongoDB, AWS Lambda, Jenkins
+
+Junior Developer | WebAgency | Aug 2017 – May 2019
+- Developed responsive web applications for 15+ client projects
+- Collaborated with UX designers to implement pixel-perfect UI components
+- Built REST APIs integrated with third-party payment gateways (Stripe, PayPal)
+
+─────────────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────────────
+Bachelor of Science in Computer Science
+State University of New York (SUNY Buffalo) | 2017
+GPA: 3.7/4.0 | Dean's List 4 semesters
+
+─────────────────────────────────────────────────────
+TECHNICAL SKILLS
+─────────────────────────────────────────────────────
+Languages:         JavaScript, TypeScript, Python, SQL, HTML5, CSS3
+Frontend:          React 18, Next.js, Redux Toolkit, Tailwind CSS, Webpack
+Backend:           Node.js, Express.js, GraphQL, REST APIs
+Databases:         PostgreSQL, MongoDB, Redis, MySQL
+Cloud & DevOps:    AWS (EC2, S3, Lambda, ECS, RDS), Docker, Kubernetes, Terraform
+Testing:           Jest, Cypress, React Testing Library, Supertest
+Tools:             Git, GitHub Actions, Jira, Figma, VS Code
+
+─────────────────────────────────────────────────────
+PROJECTS
+─────────────────────────────────────────────────────
+
+Open Source: CollabBoard (2,400 ⭐ on GitHub)
+A real-time collaborative whiteboard built with WebSockets, React, and Node.js. Deployed on AWS using Docker.
+
+Personal: DevMetrics Dashboard
+Full-stack developer productivity tracker. React frontend + Express + PostgreSQL. 1,200 monthly active users.
+
+─────────────────────────────────────────────────────
+CERTIFICATIONS
+─────────────────────────────────────────────────────
+- AWS Certified Solutions Architect – Associate (2022)
+- AWS Certified Developer – Associate (2021)
+- MongoDB Certified Developer (2020)
+
+─────────────────────────────────────────────────────
+AWARDS & ACHIEVEMENTS
+─────────────────────────────────────────────────────
+- TechCorp "Engineer of the Quarter" — Q3 2023
+- Hackathon Winner — SF Tech Week 2022 (Best Developer Tool)
+- Speaker at NodeConf 2022: "Scaling Node.js Microservices"

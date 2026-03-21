@@ -1,0 +1,77 @@
+PRIYA SHARMA
+Machine Learning Engineer
+Email: priya.sharma@gmail.com | Phone: (512) 555-0242
+LinkedIn: linkedin.com/in/priyasharma | GitHub: github.com/priyasharma-ml
+Location: Austin, TX (Open to remote)
+
+─────────────────────────────────────────────────────
+SUMMARY
+─────────────────────────────────────────────────────
+ML Engineer with 4 years of experience designing and deploying production-grade machine learning systems. Expertise in NLP, deep learning, and LLM fine-tuning. Published researcher with 2 peer-reviewed papers. Experienced with end-to-end ML pipelines from data preprocessing to model serving at scale.
+
+─────────────────────────────────────────────────────
+EXPERIENCE
+─────────────────────────────────────────────────────
+
+Machine Learning Engineer | DataBrain AI | Mar 2022 – Present
+- Designed and deployed a BERT-based document classification system achieving 94.2% accuracy across 50+ categories (production, serving 100K+ requests/day)
+- Built LangChain-based RAG pipeline for enterprise knowledge base Q&A, reducing support ticket volume by 35%
+- Fine-tuned LLaMA 2 (7B) on company-specific data using LoRA/QLoRA; deployed on AWS SageMaker
+- Implemented ML monitoring with data drift detection, reducing model degradation incidents by 70%
+- Tech stack: Python, PyTorch, HuggingFace Transformers, LangChain, FAISS, AWS SageMaker, FastAPI
+
+Data Scientist | Analytics Corp | Jul 2020 – Feb 2022
+- Developed customer churn prediction model (XGBoost, 91% AUC) saving $2.4M annually
+- Built an NLP pipeline for sentiment analysis on 500K+ monthly customer reviews
+- Created Tableau dashboards used by C-suite for strategic decision-making
+- Conducted A/B tests and statistical analysis to validate product hypotheses
+
+Research Intern | University of Texas AI Lab | Jan 2020 – Jun 2020
+- Contributed to NLP research on cross-lingual sentence embeddings
+- Implemented and evaluated 5 state-of-the-art models (LASER, mBERT, XLM-R)
+
+─────────────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────────────
+Master of Science in Computer Science (Specialization: Machine Learning)
+University of Texas at Austin | May 2020
+GPA: 3.9/4.0 | UT Austin is a public (state) university
+
+Bachelor of Engineering in Information Technology
+Anna University, Chennai, India | 2018
+GPA: 8.7/10.0
+
+─────────────────────────────────────────────────────
+TECHNICAL SKILLS
+─────────────────────────────────────────────────────
+ML Frameworks:     PyTorch, TensorFlow, Keras, Scikit-learn, XGBoost, LightGBM
+NLP / LLMs:        HuggingFace Transformers, LangChain, OpenAI API, LLaMA, BERT, GPT-4
+Vector Search:     FAISS, Pinecone, ChromaDB, Weaviate
+MLOps:             AWS SageMaker, MLflow, DVC, Docker, Kubernetes, Airflow
+Languages:         Python (expert), SQL (advanced), R (intermediate), JavaScript (basic)
+Data:              Pandas, NumPy, Spark, dbt, Snowflake, PostgreSQL
+Visualization:     Matplotlib, Seaborn, Plotly, Tableau
+
+─────────────────────────────────────────────────────
+PROJECTS
+─────────────────────────────────────────────────────
+
+Multi-Modal Fraud Detection System
+- Combines transaction data + NLP on merchant descriptions for real-time fraud detection
+- XGBoost + fine-tuned DistilBERT; deployed on AWS Lambda with <100ms p99 latency
+
+Open-Source: RAG-Eval Toolkit (890 ⭐)
+- Evaluation framework for RAG pipeline quality (relevance, faithfulness, answer correctness)
+
+─────────────────────────────────────────────────────
+PUBLICATIONS
+─────────────────────────────────────────────────────
+1. "Efficient Cross-Lingual Transfer for Low-Resource NLP Tasks" — EMNLP 2021
+2. "Improving RAG Faithfulness via Chunk-Level Re-ranking" — arXiv preprint, 2023
+
+─────────────────────────────────────────────────────
+CERTIFICATIONS
+─────────────────────────────────────────────────────
+- AWS Certified Machine Learning – Specialty (2023)
+- Deep Learning Specialization — Coursera / deeplearning.ai (2021)
+- Professional Data Engineer — Google Cloud (2022)

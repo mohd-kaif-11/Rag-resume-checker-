@@ -1,0 +1,57 @@
+BACKEND SOFTWARE ENGINEER — JOB DESCRIPTION
+Company: FinanceFlow Technologies
+Location: Chicago, IL or Remote
+Employment Type: Full-Time
+
+─────────────────────────────────────────────────────
+ABOUT THE ROLE
+─────────────────────────────────────────────────────
+We are seeking a Backend Software Engineer to join our Payments infrastructure team. You will design and build the financial transaction processing services that handle millions of dollars of payments daily. This role requires strong backend skills — candidates with only frontend experience will not be considered.
+
+─────────────────────────────────────────────────────
+RESPONSIBILITIES
+─────────────────────────────────────────────────────
+- Build and maintain high-throughput Node.js or Python backend services
+- Design and optimize PostgreSQL and Redis data models for transaction processing
+- Integrate with payment providers: Stripe, Plaid, and ACH networks
+- Build secure REST APIs adhering to PCI-DSS compliance standards
+- Write comprehensive tests (unit, integration, end-to-end) with 85%+ coverage
+- Participate in on-call rotation and incident response
+- Deploy and manage services on AWS using Docker and Kubernetes
+
+─────────────────────────────────────────────────────
+REQUIREMENTS
+─────────────────────────────────────────────────────
+Must-Have:
+- 3+ years of backend engineering experience (Node.js or Python)
+- Strong proficiency with PostgreSQL or MySQL (complex queries, indexing, transactions)
+- Experience with REST API design, authentication (OAuth, JWT), and security best practices
+- Solid understanding of distributed systems and concurrency
+- Experience with Docker and container-based deployments
+- AWS or GCP cloud experience (EC2, RDS, SQS, or equivalent)
+- TypeScript (Node.js) or strong Python skills
+
+Must NOT Have:
+- This is NOT a frontend role. Candidates with exclusively frontend/React experience should not apply.
+- Must have backend service ownership experience, not just API consumption
+
+Nice to Have:
+- Experience with Kafka or other message queues
+- Kubernetes orchestration experience
+- Fintech or payments industry experience
+- Knowledge of PCI-DSS compliance requirements
+
+─────────────────────────────────────────────────────
+QUALIFICATIONS
+─────────────────────────────────────────────────────
+- Bachelor's degree in Computer Science, Engineering, or equivalent
+- Must be authorized to work in the United States
+- Must pass technical interview (backend coding + system design)
+
+─────────────────────────────────────────────────────
+COMPENSATION
+─────────────────────────────────────────────────────
+- Salary: $130,000 – $160,000 based on experience
+- Stock options
+- Full health, dental, vision benefits
+- 401(k) with 4% match

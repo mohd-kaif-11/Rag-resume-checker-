@@ -1,0 +1,62 @@
+MARCUS WILLIAMS
+Frontend Developer
+Email: marcus.williams@email.com | Phone: (312) 555-0387
+Portfolio: marcuswilliams.dev | GitHub: github.com/marcuswdev
+Location: Chicago, IL
+
+─────────────────────────────────────────────────────
+SUMMARY
+─────────────────────────────────────────────────────
+Frontend Developer with 3 years of experience building responsive web interfaces. Proficient in React and modern JavaScript. Looking to grow into a full-stack role and expand backend development skills.
+
+─────────────────────────────────────────────────────
+EXPERIENCE
+─────────────────────────────────────────────────────
+
+Frontend Developer | Digital Agency Co. | Jan 2022 – Present
+- Developed and maintained 8+ client websites using React, HTML5, CSS3
+- Built reusable component library used across 3 product teams
+- Collaborated with backend developers to integrate REST APIs
+- Improved Lighthouse performance score from 52 to 88 on company's main product
+- Tech stack: React, JavaScript, CSS3, Bootstrap, REST API consumption, Git
+
+Junior Web Developer | Freelance | Jun 2021 – Dec 2021
+- Delivered 12 freelance web projects for local businesses
+- Built WordPress sites with custom themes and e-commerce (WooCommerce)
+- Basic PHP and MySQL for simple CMS backends
+
+─────────────────────────────────────────────────────
+EDUCATION
+─────────────────────────────────────────────────────
+Bachelor of Arts in Graphic Design
+DePaul University, Chicago, IL | 2021
+Minor: Web Technologies
+GPA: 3.2/4.0
+
+─────────────────────────────────────────────────────
+TECHNICAL SKILLS
+─────────────────────────────────────────────────────
+Strong:       HTML5, CSS3, JavaScript (ES6+), React, Git, Figma, Bootstrap, Tailwind CSS
+Familiar:     TypeScript (basic), MySQL, PHP, WordPress, REST API integration
+Learning:     Node.js (self-studying), Python (beginner), PostgreSQL (beginner)
+
+─────────────────────────────────────────────────────
+PROJECTS
+─────────────────────────────────────────────────────
+
+Personal Finance Tracker (In Progress)
+- React + Firebase app for tracking monthly expenses. Basic authentication with Firebase Auth.
+
+Portfolio Website
+- Custom React + Tailwind portfolio site with 3D animations using Three.js basics
+
+─────────────────────────────────────────────────────
+CERTIFICATIONS
+─────────────────────────────────────────────────────
+- Meta Front-End Developer Certificate — Coursera (2022)
+- Google UX Design Certificate — Coursera (2021)
+
+─────────────────────────────────────────────────────
+LANGUAGES
+─────────────────────────────────────────────────────
+English (Native), Spanish (Conversational)
